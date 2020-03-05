@@ -1,4 +1,8 @@
 //Common String Methods
+//lastIndexOf()
+//slice()
+//substr()
+//replace()
 
 let email = 'mario@gmail.com';
 
